@@ -161,6 +161,7 @@ const ExtraInfoScreen = () => {
 	)
 }
 
+
 export default ExtraInfoScreen
 
 const styles = StyleSheet.create({
